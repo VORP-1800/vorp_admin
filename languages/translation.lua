@@ -251,8 +251,7 @@ Translation.Langs = {
                 giveWeapon           = "Give a weapon",
                 giveWeapon_desc      = "Provide a weapon to a player",
                 giveMoneyOrGold      = "Give money or gold",
-                giveMoneyOrGold_desc =
-                "Transfer currency or gold to a player's account <br> FOR DOLAR = 0 | FOR GOLD = 1 AND QUANTITY",
+                giveMoneyOrGold_desc = "Transfer currency or gold to a player's account <br> FOR DOLAR = 0 | FOR GOLD = 1 AND QUANTITY",
                 giveHorse            = "Give a horse",
                 giveHorse_desc       = "Bestow a horse to a player",
                 giveWagon            = "Give a wagon",
@@ -306,6 +305,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "Interior ID",
+                interiorId_desc = "Get the interior ID of the current interior from the player",
                 spawnPedWithList = "Spawn Ped/Animal (List)",
                 spawnPedWithList_desc = "Spawn a Ped or Animal from a list",
                 spawnPedWithInput = "Spawn Ped/Animal (Input)",
@@ -336,12 +337,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Print Model",
-                printModel_desc = "Print the model of the closest object",
-                deleteModel = "Delete Model",
+                printModel       = "Print Model",
+                printModel_desc  = "Print the model of the closest object",
+                deleteModel      = "Delete Model",
                 deleteModel_desc = "Delete the closest object",
-                coordsMenu = "Coordinates Menu",
-                coordsMenu_desc = "Open the coordinates menu",
+                coordsMenu       = "Coordinates Menu",
+                coordsMenu_desc  = "Open the coordinates menu",
+                devtoolOn        = "Dev Laser / Inspect",
+                devtool_desc     = "Turn on the beam and backlight",
             },
             MainTeleportOptions = {
                 tpmAuto = "Toggle Auto Teleport",
@@ -363,6 +366,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Only numbers, not - and ."
                 },
+                teleportToGuarma = "Go to / Back from Guarma",
+                teleportToGuarma_desc = "Teleport to Guarma or back from Guarma if you are already there",
             },
             MainUserOptions = {
                 playerReport = "Report Players",
@@ -835,6 +840,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "ID do Interior",
+                interiorId_desc = "Obtenha o ID do interior atual do jogador selecionado",
                 spawnPedWithList = "Spawnar Ped/Animal (Lista)",
                 spawnPedWithList_desc = "Spawnar um Ped ou Animal a partir de uma lista",
                 spawnPedWithInput = "Spawnar Ped/Animal (Inserir Nome)",
@@ -865,12 +872,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Imprimir Modelo",
-                printModel_desc = "Imprimir o modelo do objeto mais próximo",
-                deleteModel = "Apagar Modelo",
+                printModel       = "Imprimir Modelo",
+                printModel_desc  = "Imprimir o modelo do objeto mais próximo",
+                deleteModel      = "Apagar Modelo",
                 deleteModel_desc = "Apagar o objeto mais próximo",
-                coordsMenu = "Menu de Coordenadas",
-                coordsMenu_desc = "Abrir o menu de coordenadas",
+                coordsMenu       = "Menu de Coordenadas",
+                coordsMenu_desc  = "Abrir o menu de coordenadas",
+                devtoolOn        = "Dev Laser / Inspecionar",
+                devtool_desc     = "Ligue o feixe e a luz de fundo",
             },
             MainTeleportOptions = {
                 tpmAuto = "Alternar Teleporte Automático",
@@ -893,6 +902,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Apenas números, não usar - e ."
                 },
+                teleportToGuarma = "Ir para / Voltar de Guarma",
+                teleportToGuarma_desc = "Teletransporta para Guarma ou volta de Guarma se ja estiver la",
             },
             MainUserOptions = {
                 playerReport = "Denunciar Jogadores",
@@ -1365,6 +1376,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "ID do Interior",
+                interiorId_desc = "Obtenha o ID do interior atual do jogador selecionado",
                 spawnPedWithList = "Spawnar Ped/Animal (Lista)",
                 spawnPedWithList_desc = "Spawnar um Ped ou Animal a partir de uma lista",
                 spawnPedWithInput = "Spawnar Ped/Animal (Entrada)",
@@ -1395,12 +1408,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Imprimir Modelo",
-                printModel_desc = "Imprimir o modelo do objeto mais próximo",
-                deleteModel = "Excluir Modelo",
+                printModel       = "Imprimir Modelo",
+                printModel_desc  = "Imprimir o modelo do objeto mais próximo",
+                deleteModel      = "Excluir Modelo",
                 deleteModel_desc = "Excluir o objeto mais próximo",
-                coordsMenu = "Menu de Coordenadas",
-                coordsMenu_desc = "Abra o menu de coordenadas",
+                coordsMenu       = "Menu de Coordenadas",
+                coordsMenu_desc  = "Abra o menu de coordenadas",
+                devtoolOn        = "Dev Laser / Inspecionar",
+                devtool_desc     = "Ligue o feixe e a luz de fundo",
             },
             MainTeleportOptions = {
                 tpmAuto = "Alternar Teleporte Automático",
@@ -1422,6 +1437,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Apenas números, sem - e ."
                 },
+                teleportToGuarma = "Ir para / Voltar de Guarma",
+                teleportToGuarma_desc = "Teletransporta para Guarma ou volta de Guarma se voce ja estiver la",
             },
             MainUserOptions = {
                 playerReport = "Relatar Jogadores",
@@ -1891,6 +1908,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "ID de l'Intérieur",
+                interiorId_desc = "Obtenez l'ID de l'intérieur actuel du joueur sélectionné",
                 spawnPedWithList = "Faire Apparaitre un Ped/Animal (Liste)",
                 spawnPedWithList_desc = "Faites apparaitre un Ped ou un Animal à partir d'une liste",
                 spawnPedWithInput = "Faire Apparaitre un Ped/Animal (Entrée)",
@@ -1921,12 +1940,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Afficher le Modèle",
-                printModel_desc = "Affichez le modèle de l'objet le plus proche",
-                deleteModel = "Supprimer le Modèle",
+                printModel       = "Afficher le Modèle",
+                printModel_desc  = "Affichez le modèle de l'objet le plus proche",
+                deleteModel      = "Supprimer le Modèle",
                 deleteModel_desc = "Supprimez l'objet le plus proche",
-                coordsMenu = "Menu des Coordonnées",
-                coordsMenu_desc = "Ouvrez le menu des coordonnées",
+                coordsMenu       = "Menu des Coordonnées",
+                coordsMenu_desc  = "Ouvrez le menu des coordonnées",
+                devtoolOn        = "Développement laser / Inspection",
+                devtool_desc     = "Allumez le projecteur et le rétroéclairage",
             },
             MainTeleportOptions = {
                 tpmAuto = "Activer/Désactiver Téléportation Automatique",
@@ -1948,6 +1969,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Seuls les chiffres sont autorisés, pas de - et de ."
                 },
+                teleportToGuarma = "Aller a / Revenir de Guarma",
+                teleportToGuarma_desc = "Teleporte vers Guarma ou en revient si vous y etes deja",
             },
             MainUserOptions = {
                 playerReport = "Signaler des Joueurs",
@@ -2419,6 +2442,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "Internums ID",
+                interiorId_desc = "Erhalte die Internums-ID des aktuellen Internums vom Spieler",
                 spawnPedWithList = "Ped/Tier (Liste) erzeugen",
                 spawnPedWithList_desc = "Erzeuge einen Ped oder ein Tier aus einer Liste",
                 spawnPedWithInput = "Ped/Tier (Eingabe) erzeugen",
@@ -2449,12 +2474,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Modell drucken",
-                printModel_desc = "Drucke das Modell des nächstgelegenen Objekts",
-                deleteModel = "Modell löschen",
+                printModel       = "Modell drucken",
+                printModel_desc  = "Drucke das Modell des nächstgelegenen Objekts",
+                deleteModel      = "Modell löschen",
                 deleteModel_desc = "Lösche das nächstgelegene Objekt",
-                coordsMenu = "Koordinatenmenü",
-                coordsMenu_desc = "Öffne das Koordinatenmenü",
+                coordsMenu       = "Koordinatenmenü",
+                coordsMenu_desc  = "Öffne das Koordinatenmenü",
+                devtoolOn        = "Dev Laser / Überprüfen",
+                devtool_desc     = "Schalten Sie den Scheinwerfer und die Hintergrundbeleuchtung ein.",
             },
             MainTeleportOptions = {
                 tpmAuto = "Automatisches Teleportieren umschalten",
@@ -2476,6 +2503,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Nur Zahlen, keine - und ."
                 },
+                teleportToGuarma = "Nach Guarma / Zuruck von Guarma",
+                teleportToGuarma_desc = "Teleportiere nach Guarma oder zuruck von Guarma, wenn du bereits dort bist",
             },
             MainUserOptions = {
                 playerReport = "Spieler melden",
@@ -2947,6 +2976,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "ID del Interior",
+                interiorId_desc = "Obtener el ID del interior actual del jugador seleccionado",
                 spawnPedWithList = "Spawnear PNJ/Animal (Lista)",
                 spawnPedWithList_desc = "Spawnear un PNJ o Animal desde una lista",
                 spawnPedWithInput = "Spawnear PNJ/Animal (Entrada)",
@@ -2977,12 +3008,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Imprimir Modelo",
-                printModel_desc = "Imprimir el modelo del objeto más cercano",
-                deleteModel = "Eliminar Modelo",
+                printModel       = "Imprimir Modelo",
+                printModel_desc  = "Imprimir el modelo del objeto más cercano",
+                deleteModel      = "Eliminar Modelo",
                 deleteModel_desc = "Eliminar el objeto más cercano",
-                coordsMenu = "Menú de Coordenadas",
-                coordsMenu_desc = "Abrir el menú de coordenadas",
+                coordsMenu       = "Menú de Coordenadas",
+                coordsMenu_desc  = "Abrir el menú de coordenadas",
+                devtoolOn        = "Dev Laser / Inspección",
+                devtool_desc     = "Enciende el haz de luz y la retroiluminación",
             },
             MainTeleportOptions = {
                 tpmAuto = "Alternar Teletransportación Automática",
@@ -3004,6 +3037,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Solo números, no - ni ."
                 },
+                teleportToGuarma = "Ir a / Volver de Guarma",
+                teleportToGuarma_desc = "Te teletransporta a Guarma o te devuelve de Guarma si ya estas alli",
             },
             MainUserOptions = {
                 playerReport = "Reportar Jugadores",
@@ -3477,6 +3512,8 @@ Translation.Langs = {
                 },
             },
             MainDevToolsOptions = {
+                interiorId = "ID Interior",
+                interiorId_desc = "Obține ID-ul interiorului curent de la jucatorul selectat",
                 spawnPedWithList = "Invoca Ped/Animal (Lista)",
                 spawnPedWithList_desc = "Invoca un Ped sau Animal dintr-o lista",
                 spawnPedWithInput = "Invoca Ped/Animal (Input)",
@@ -3507,12 +3544,14 @@ Translation.Langs = {
                 },
             },
             SubDevToolsOptions = {
-                printModel = "Imprima Modelul",
-                printModel_desc = "Imprima modelul celui mai apropiat obiect",
-                deleteModel = "Sterge Modelul",
+                printModel       = "Imprima Modelul",
+                printModel_desc  = "Imprima modelul celui mai apropiat obiect",
+                deleteModel      = "Sterge Modelul",
                 deleteModel_desc = "Sterge cel mai apropiat obiect",
-                coordsMenu = "Meniu Coordonate",
-                coordsMenu_desc = "Deschide meniul coordonatelor",
+                coordsMenu       = "Meniu Coordonate",
+                coordsMenu_desc  = "Deschide meniul coordonatelor",
+                devtoolOn        = "Dezvoltare laser / Inspecție",
+                devtool_desc     = "Activați fasciculul și lumina de fundal",
             },
             MainTeleportOptions = {
                 tpmAuto = "Comuta Teleportare Automata",
@@ -3534,6 +3573,8 @@ Translation.Langs = {
                     placeholder = "X Y Z",
                     errorMsg = "Doar cifre, fara - si ."
                 },
+                teleportToGuarma = "Mergi la / Revino din Guarma",
+                teleportToGuarma_desc = "Te teleporteaza in Guarma sau inapoi din Guarma daca esti deja acolo",
             },
             MainUserOptions = {
                 playerReport = "Raporteaza Jucatori",
